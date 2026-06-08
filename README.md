@@ -257,6 +257,6 @@ This project demonstrates:
 
 
 GitHub: https://github.com/safi-is-coding
-LinkedIn: Add your LinkedIn profile link
+LinkedIn: www.linkedin.com/in/safimaz
 
 ---
