@@ -102,8 +102,7 @@ HR-RAG/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/hr-rag.git
-cd hr-rag
+git clone https://github.com/safi-is-coding/HR-Policy-Assistant---RAG-Application
 ```
 
 ### Create Virtual Environment
